@@ -16,4 +16,4 @@
 
 export * from './gateway/public-api';
 
-export const E2E_PUBLISH_TEST = 'e2e-direct';
+export const E2E_PUBLISH_TEST = 'e2e-4';
